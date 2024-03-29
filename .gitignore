@@ -1,0 +1,4 @@
+*.pdf
+.env/
+split/__pycache__/
+pdfsplit.egg-info/
